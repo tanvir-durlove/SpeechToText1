@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/td/Downloads/SpeechToText1/app/build/intermediates/res/merged/debug/drawable-hdpi/ico_mic.png",
+        "source": "/home/td/Downloads/SpeechToText1/app/src/main/res/drawable-hdpi/ico_mic.png"
+    },
+    {
+        "merged": "/home/td/Downloads/SpeechToText1/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_launcher.png",
+        "source": "/home/td/Downloads/SpeechToText1/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    }
+]
